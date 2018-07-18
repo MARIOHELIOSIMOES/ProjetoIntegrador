@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "918075351269",
+    "firebase_url": "https://projeto-integrador-cb92e.firebaseio.com",
+    "project_id": "projeto-integrador-cb92e",
+    "storage_bucket": "projeto-integrador-cb92e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918075351269:android:d1b740ba871f6bba",
+        "android_client_info": {
+          "package_name": "mario.simoes.projetointegrado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918075351269-9l0osko953o8s6k1foa47tbqkontm1vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVopE8jSpAWHvoWUlqPTMPgx_YcuQyzEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
